@@ -1,0 +1,37 @@
+h1 {
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 50px;
+    font-family: monospace;
+    font-size: medium;
+    font-weight: bold;
+}
+
+p {
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 50px;
+    color: rgb(236, 193, 128);
+    font-family: monospace;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+h2 {
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding: 50px;
+    background-color: rgb(233, 172, 115);
+    font-family: monospace;
+    font-size: medium;
+    font-weight: lighter;
+}
